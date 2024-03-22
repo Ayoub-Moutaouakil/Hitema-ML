@@ -1,3 +1,14 @@
+---
+title: Review To Sentiment
+emoji: 🌖
+colorFrom: yellow
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.32.2
+app_file: app.py
+pinned: false
+---
+
 Analyse Multimodale
 
 Ce projet consiste en une application Streamlit pour l'analyse multimodale, qui comprend l'analyse de sentiment de critiques de films, la détection de commandes vocales à partir de fichiers audio et la prédiction de la race d'un chien à partir d'une image.
@@ -37,14 +48,3 @@ Assurez-vous que les fichiers audio uploadés pour la détection de commandes vo
 L'analyse de sentiment utilise un modèle BERT pré-entraîné, la détection de commandes vocales utilise un modèle Wav2Vec2 pré-entraîné, et la détection de race de chien utilise un modèle MobileNetV2 pré-entraîné.
 
 Ce projet est à titre éducatif et démonstratif, et peut être étendu ou adapté selon les besoins spécifiques.
-
----
-title: Review To Sentiment
-emoji: 🌖
-colorFrom: yellow
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.32.2
-app_file: app.py
-pinned: false
----
